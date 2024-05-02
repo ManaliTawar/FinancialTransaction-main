@@ -141,9 +141,9 @@ These are basic step to get you started with deploying Transaction Service using
 
 1. /ping :
 
-![Ping](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/e4f749b9-09e5-488d-a3b6-54f0bb7dd291)
+  ![Ping](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/e4f749b9-09e5-488d-a3b6-54f0bb7dd291)
 
-![ping2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/484d3633-6300-44f9-8faf-71333b8dd071)
+  ![ping2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/484d3633-6300-44f9-8faf-71333b8dd071)
 
 
 
@@ -151,6 +151,7 @@ These are basic step to get you started with deploying Transaction Service using
 2.  /authorization/{messageId}
 
    Success:
+   
     ![authorization](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/6c19d21e-3c43-4b9c-ace5-f246b2d1fba7)
     
     ![authorization2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/f92b9cc3-0a63-4505-8cac-3a267415d37c)
