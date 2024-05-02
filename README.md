@@ -141,25 +141,39 @@ These are basic step to get you started with deploying Transaction Service using
 
 1. /ping :
 
-![Alt text](src\main\resources\Ping.png)
+![Ping](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/e4f749b9-09e5-488d-a3b6-54f0bb7dd291)
 
-![Alt text](src\main\resources\ping2.png)
+![ping2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/484d3633-6300-44f9-8faf-71333b8dd071)
+
+
+
 
 2.  /authorization/{messageId}
 
-Success:
+   Success:
+    ![authorization](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/6c19d21e-3c43-4b9c-ace5-f246b2d1fba7)
+    
+    ![authorization2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/f92b9cc3-0a63-4505-8cac-3a267415d37c)
+    
+    ![authorization3](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/04063502-dd48-4880-b068-6090e9f8d8e2)
+    
 
-![Alt text](src\main\resources\authorization.png)
-![Alt text](src\main\resources\authorization2.png)
-![Alt text](src\main\resources\authorization3.png)
+    Failure:
+    
+    ![authorization4](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/40371e7d-d870-41df-9c77-a2f9241df55b)
 
-Failure:
+    ![authorization5](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/882ac704-7577-4fb8-942e-f47c1bbfbccf)
 
-![Alt text](src\main\resources\authorization4.png)
-![Alt text](src\main\resources\authorization5.png)
+
+
 
 3.  /load/{messageId}
+   
+   ![load](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/69ed8964-baa3-4fdb-ade5-e3174277c5e1)
 
-![Alt text](src\main\resources\load.png)
-![Alt text](src\main\resources\load1.png)
-![Alt text](src\main\resources\load2.png)
+   ![load1](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/df9e84f9-10a1-489e-9bbd-89c7eafa9426)
+
+   ![load2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/8731f00b-d068-4b26-a80b-437aa62a4846)
+
+
+
