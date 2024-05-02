@@ -52,7 +52,6 @@ mvn spring-boot:run
 3. Authorization endpoint functions as documented.
 4. Comprehensive unit and integration tests implemented.
 
-## FAQ
 
 ## Design considerations
 
