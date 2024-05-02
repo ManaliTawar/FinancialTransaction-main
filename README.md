@@ -151,19 +151,23 @@ These are basic step to get you started with deploying Transaction Service using
 2.  /authorization/{messageId}
 
    Success:
-   
-    ![authorization](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/6c19d21e-3c43-4b9c-ace5-f246b2d1fba7)
-    
-    ![authorization2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/f92b9cc3-0a63-4505-8cac-3a267415d37c)
-    
-    ![authorization3](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/04063502-dd48-4880-b068-6090e9f8d8e2)
-    
+     ![authorization](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/893b95d7-1b22-4cf0-810d-dbe56640bb40)
 
-    Failure:
-    
-    ![authorization4](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/40371e7d-d870-41df-9c77-a2f9241df55b)
+     
 
-    ![authorization5](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/882ac704-7577-4fb8-942e-f47c1bbfbccf)
+    
+  ![authorization2](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/f7e5c77c-dc6f-45fd-8cb9-f11fa33a53ae)
+
+  
+
+  ![authorization3](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/320f183c-767f-466f-b49f-a7b3f8c03a37)
+
+  Failure:
+
+    
+  ![authorization4](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/40371e7d-d870-41df-9c77-a2f9241df55b)
+
+  ![authorization5](https://github.com/ManaliTawar/FinancialTransaction-main/assets/42312685/882ac704-7577-4fb8-942e-f47c1bbfbccf)
 
 
 
